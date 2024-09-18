@@ -1,0 +1,167 @@
+su
+-exit
+sudo nano /etc/default/grub
+sudo-apt autoremove
+sudo apt autoremove
+nano /etc/sudoers
+su
+sudo apt update
+su
+sudo apt install software-properties-common apt-transport-https wget
+su
+pwd
+ls
+cd Descargas
+ls
+pws
+pwd
+cd ..
+ls
+su 
+admin
+su
+pwd
+mk prueba
+mkdir prueba
+ls
+cd prueba
+mkdir subprueba
+ls
+pwd
+ls -l
+tree -d
+pwd
+./prueba
+./
+pwd
+tree prueba
+cd prueba
+mkdor -p {carpeta1,carpeta2}
+mkdir -p {carpeta1,carpeta2}
+dor
+dir
+tree
+tree ls
+tree -d
+cd ..
+pwd
+ls tree
+tree
+ls
+rm prueba
+rmdir prueba
+cd prueba
+pwd
+ls
+cd ..
+pwd
+rmdir --help
+pwd
+su
+su 
+ls
+cd ..
+ls
+cd ..
+ls
+pwd
+cd /home
+mkdir yo
+ls
+cd ..
+ls
+git --version
+git config --global user.email "ivanpedulla@gmail.com"
+git config --global user.name "EzequielPedulla"
+ssh-keygen
+ls
+cat usuario.pub
+pwd
+mkdir "repo-git"
+ls
+cd repo-git/
+git clone https://github.com/EzequielPedulla/TP_AySO.git
+cd TP_AySO/
+ls
+clar
+clear
+whoami
+echo "usuario=$(whoami)" > usuario.txt
+ls
+cat usuario.txt 
+ls -l
+git add .
+git status
+git commit -m "ADD: archivo-txt"
+git -s
+git -status -s
+git -status -l
+git -status 
+git status
+sudo nano /etc/inputrc
+set bell-style none
+echo ‘set bell-style none’ >> ~/.inputrc
+xset b off
+setterm -blength 0
+setterm-blength 0
+setterm -blength 0
+su
+su 
+su
+ls
+cd repo-git/
+git status
+git clone https://github.com/EzequielPedulla/TP_AySO~
+git clone https://github.com/EzequielPedulla/TP_AySO
+git status
+git add .
+git status
+pwd
+ls
+cd TP_AySO/
+git status
+git push
+git remote add origin https://github.com/EzequielPedulla/TP_AySO.git
+git push -u origin main
+git push 
+git remote set-url origin git@github.com:usuario/repositorio.git
+ssh -t git@github.com
+git push -u origin main
+clear
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+clear
+pwd
+ls
+git status
+git push -u origin main
+ssh -t git@github.com
+ssh-add -l
+ssh-add ~/.ssh/usuario.pub
+ssh-add ~/.ssh/usuario
+git push -u origin main
+git commit -ñ
+git log 
+git log origin/main..HEAD
+ssh -T git@github.com
+git remote set-url origin git@github.com:EzequielPedulla/TP_AySO.git
+git pull origin main
+pwd
+ls
+cd repo-git/
+ls
+cd TP_AySO/
+ssh-add /home/ezequiel/usuario
+ssh-add -l
+ssh -t git@github.com
+ssh -T git@github.com
+git push -u origin main
+git remote -v
+git push -u origin main
+git remote set-url origin git@github.com:EzequielPedulla/TP_AySO.git
+clear
+ssh -T git@github.com
+git push -u origin main
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
